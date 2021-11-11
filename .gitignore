@@ -1,2 +1,5 @@
 mysql/**
 !mysql/.gitkeep
+
+challenges/nginx_node/mysql/**
+challenges/nginx_node/node/node_modules
